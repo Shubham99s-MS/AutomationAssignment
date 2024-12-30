@@ -31,7 +31,7 @@ public class Collection_Assignment_3 {
 		Student1Map.put("Address","123 Elm St");
 		System.out.println("Student 1 details :"+Student1Map);
 		
-		//Below Student2Map details are stored using Map(HashMap) 
+		//Below Student1Map details are stored using Map(HashMap) 
 		
 		Map<String,String > Student2Map = new HashMap<String,String>();
 		Student2Map.put("Name","Jane Smith");
